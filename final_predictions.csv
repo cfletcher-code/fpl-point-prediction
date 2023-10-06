@@ -1,0 +1,556 @@
+,name,team,position,now_cost,pred_score,GW
+15,Aleksandar Mitrović,Fulham,FWD,75,163.09242183944633,1
+35,Andrew Robertson,Liverpool,DEF,65,120.42192631173059,1
+82,Bruno Borges Fernandes,Man Utd,MID,85,210.04700653852578,1
+130,Daniel Jebbison,Sheffield Utd,FWD,50,95.16114385850011,1
+141,David Raya Martin,Brentford,GK,50,149.51342206215304,1
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,128.95527091566396,1
+186,Ethan Pinnock,Brentford,DEF,45,93.76738035278176,1
+226,Harry Kane,Spurs,FWD,125,192.4318241108435,1
+281,Jason Steele,Brighton,GK,45,165.44661453149058,1
+351,Kieran Trippier,Newcastle,DEF,65,248.03833634746655,1
+409,Martin Ødegaard,Arsenal,MID,85,181.88276522617275,1
+431,Michael Olise,Crystal Palace,MID,60,145.41244771714753,1
+478,Pascal Groß,Brighton,MID,65,166.0597808538698,1
+482,Pedro Porro,Spurs,DEF,50,119.04381160452496,1
+576,Trent Alexander-Arnold,Liverpool,DEF,80,201.48866402931714,1
+15,Aleksandar Mitrović,Fulham,FWD,75,163.09242183944633,2
+35,Andrew Robertson,Liverpool,DEF,65,120.42192631173059,2
+82,Bruno Borges Fernandes,Man Utd,MID,85,210.04700653852578,2
+130,Daniel Jebbison,Sheffield Utd,FWD,50,95.16114385850011,2
+141,David Raya Martin,Brentford,GK,50,149.51342206215304,2
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,128.95527091566396,2
+186,Ethan Pinnock,Brentford,DEF,45,93.76738035278176,2
+226,Harry Kane,Spurs,FWD,125,192.4318241108435,2
+281,Jason Steele,Brighton,GK,45,165.44661453149058,2
+351,Kieran Trippier,Newcastle,DEF,65,248.03833634746655,2
+409,Martin Ødegaard,Arsenal,MID,85,181.88276522617275,2
+431,Michael Olise,Crystal Palace,MID,60,145.41244771714753,2
+478,Pascal Groß,Brighton,MID,65,166.0597808538698,2
+482,Pedro Porro,Spurs,DEF,50,119.04381160452496,2
+576,Trent Alexander-Arnold,Liverpool,DEF,80,201.48866402931714,2
+15,Aleksandar Mitrović,Fulham,FWD,75,158.5299312571596,3
+35,Andrew Robertson,Liverpool,DEF,65,116.85072064885405,3
+82,Bruno Borges Fernandes,Man Utd,MID,85,210.04700653852578,3
+130,Daniel Jebbison,Sheffield Utd,FWD,50,95.16114385850011,3
+141,David Raya Martin,Brentford,GK,50,149.51342206215304,3
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,125.52575358343759,3
+186,Ethan Pinnock,Brentford,DEF,45,93.76738035278176,3
+226,Harry Kane,Spurs,FWD,125,187.14032250640565,3
+281,Jason Steele,Brighton,GK,45,165.44661453149058,3
+351,Kieran Trippier,Newcastle,DEF,65,248.03833634746655,3
+409,Martin Ødegaard,Arsenal,MID,85,181.88276522617275,3
+431,Michael Olise,Crystal Palace,MID,60,141.08004157714822,3
+478,Pascal Groß,Brighton,MID,65,166.0597808538698,3
+482,Pedro Porro,Spurs,DEF,50,115.57133426283686,3
+576,Trent Alexander-Arnold,Liverpool,DEF,80,195.90103210802448,3
+15,Aleksandar Mitrović,Fulham,FWD,75,158.5299312571596,4
+35,Andrew Robertson,Liverpool,DEF,65,116.85072064885405,4
+82,Bruno Borges Fernandes,Man Utd,MID,85,204.0176489943323,4
+130,Daniel Jebbison,Sheffield Utd,FWD,50,92.46723116105082,4
+141,David Raya Martin,Brentford,GK,50,145.10640622488702,4
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,125.52575358343759,4
+186,Ethan Pinnock,Brentford,DEF,45,91.03851943889275,4
+226,Harry Kane,Spurs,FWD,125,187.14032250640565,4
+281,Jason Steele,Brighton,GK,45,160.88418634320203,4
+351,Kieran Trippier,Newcastle,DEF,65,242.08732230161385,4
+409,Martin Ødegaard,Arsenal,MID,85,176.64626826021885,4
+431,Michael Olise,Crystal Palace,MID,60,141.08004157714822,4
+478,Pascal Groß,Brighton,MID,65,161.34712035772694,4
+482,Pedro Porro,Spurs,DEF,50,115.57133426283686,4
+576,Trent Alexander-Arnold,Liverpool,DEF,80,195.90103210802448,4
+15,Aleksandar Mitrović,Fulham,FWD,75,150.42889584183547,5
+35,Andrew Robertson,Liverpool,DEF,65,111.38811317969281,5
+82,Bruno Borges Fernandes,Man Utd,MID,85,204.0176489943323,5
+130,Daniel Jebbison,Sheffield Utd,FWD,50,92.46723116105082,5
+141,David Raya Martin,Brentford,GK,50,145.10640622488702,5
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,118.68853218890231,5
+186,Ethan Pinnock,Brentford,DEF,45,91.03851943889275,5
+226,Harry Kane,Spurs,FWD,125,176.52274210650623,5
+281,Jason Steele,Brighton,GK,45,160.88418634320203,5
+351,Kieran Trippier,Newcastle,DEF,65,242.08732230161385,5
+409,Martin Ødegaard,Arsenal,MID,85,176.64626826021885,5
+431,Michael Olise,Crystal Palace,MID,60,133.10403946963953,5
+478,Pascal Groß,Brighton,MID,65,161.34712035772694,5
+482,Pedro Porro,Spurs,DEF,50,108.69680826604973,5
+576,Trent Alexander-Arnold,Liverpool,DEF,80,185.70833828852776,5
+15,Aleksandar Mitrović,Fulham,FWD,75,142.83286959269762,6
+35,Andrew Robertson,Liverpool,DEF,65,111.38811317969281,6
+82,Bruno Borges Fernandes,Man Utd,MID,85,193.26565455149102,6
+130,Daniel Jebbison,Sheffield Utd,FWD,50,92.46723116105082,6
+141,David Raya Martin,Brentford,GK,50,145.10640622488702,6
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,111.83181376925708,6
+186,Ethan Pinnock,Brentford,DEF,45,91.03851943889275,6
+226,Harry Kane,Spurs,FWD,125,166.03253689013727,6
+281,Jason Steele,Brighton,GK,45,160.88418634320203,6
+351,Kieran Trippier,Newcastle,DEF,65,228.47156220755926,6
+409,Martin Ødegaard,Arsenal,MID,85,176.64626826021885,6
+431,Michael Olise,Crystal Palace,MID,60,133.10403946963953,6
+478,Pascal Groß,Brighton,MID,65,161.34712035772694,6
+482,Pedro Porro,Spurs,DEF,50,102.90487865972447,6
+576,Trent Alexander-Arnold,Liverpool,DEF,80,185.70833828852776,6
+15,Aleksandar Mitrović,Fulham,FWD,75,142.83286959269762,7
+35,Andrew Robertson,Liverpool,DEF,65,104.63491523370955,7
+82,Bruno Borges Fernandes,Man Utd,MID,85,193.26565455149102,7
+130,Daniel Jebbison,Sheffield Utd,FWD,50,87.13945020445793,7
+141,David Raya Martin,Brentford,GK,50,137.74604594093867,7
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,111.83181376925708,7
+186,Ethan Pinnock,Brentford,DEF,45,86.15392952036856,7
+226,Harry Kane,Spurs,FWD,125,166.03253689013727,7
+281,Jason Steele,Brighton,GK,45,152.0784168353495,7
+351,Kieran Trippier,Newcastle,DEF,65,228.47156220755926,7
+409,Martin Ødegaard,Arsenal,MID,85,166.615940563895,7
+431,Michael Olise,Crystal Palace,MID,60,125.12803736213085,7
+478,Pascal Groß,Brighton,MID,65,153.6946665537667,7
+482,Pedro Porro,Spurs,DEF,50,102.90487865972447,7
+576,Trent Alexander-Arnold,Liverpool,DEF,80,174.5907503399734,7
+15,Aleksandar Mitrović,Fulham,FWD,75,133.86061670244783,8
+35,Andrew Robertson,Liverpool,DEF,65,104.63491523370955,8
+82,Bruno Borges Fernandes,Man Utd,MID,85,181.78287663624724,8
+130,Daniel Jebbison,Sheffield Utd,FWD,50,87.13945020445793,8
+141,David Raya Martin,Brentford,GK,50,137.74604594093867,8
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,104.68759494193,8
+186,Ethan Pinnock,Brentford,DEF,45,86.15392952036856,8
+226,Harry Kane,Spurs,FWD,125,156.06998379128325,8
+281,Jason Steele,Brighton,GK,45,152.0784168353495,8
+351,Kieran Trippier,Newcastle,DEF,65,214.7585564033013,8
+409,Martin Ødegaard,Arsenal,MID,85,166.615940563895,8
+431,Michael Olise,Crystal Palace,MID,60,125.12803736213085,8
+478,Pascal Groß,Brighton,MID,65,153.6946665537667,8
+482,Pedro Porro,Spurs,DEF,50,96.96935783222499,8
+576,Trent Alexander-Arnold,Liverpool,DEF,80,174.5907503399734,8
+15,Aleksandar Mitrović,Fulham,FWD,75,133.86061670244783,9
+35,Andrew Robertson,Liverpool,DEF,65,97.88171728772629,9
+82,Bruno Borges Fernandes,Man Utd,MID,85,181.78287663624724,9
+130,Daniel Jebbison,Sheffield Utd,FWD,50,81.81166924786503,9
+141,David Raya Martin,Brentford,GK,50,128.85549931172187,9
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,104.68759494193,9
+186,Ethan Pinnock,Brentford,DEF,45,80.72490169904977,9
+226,Harry Kane,Spurs,FWD,125,156.06998379128325,9
+281,Jason Steele,Brighton,GK,45,143.0422737237615,9
+351,Kieran Trippier,Newcastle,DEF,65,214.7585564033013,9
+409,Martin Ødegaard,Arsenal,MID,85,156.58561286757117,9
+431,Michael Olise,Crystal Palace,MID,60,117.83197131580863,9
+478,Pascal Groß,Brighton,MID,65,144.3223372644481,9
+482,Pedro Porro,Spurs,DEF,50,96.96935783222499,9
+576,Trent Alexander-Arnold,Liverpool,DEF,80,163.47316239141904,9
+15,Aleksandar Mitrović,Fulham,FWD,75,133.86061670244783,10
+35,Andrew Robertson,Liverpool,DEF,65,91.12851934174303,10
+82,Bruno Borges Fernandes,Man Utd,MID,85,181.78287663624724,10
+130,Daniel Jebbison,Sheffield Utd,FWD,50,76.48388829127214,10
+141,David Raya Martin,Brentford,GK,50,121.4951390277735,10
+162,Dwight McNeil,Everton,MID,55,103.31629030264818,10
+186,Ethan Pinnock,Brentford,DEF,45,75.84031178052558,10
+226,Harry Kane,Spurs,FWD,125,145.5797785749143,10
+281,Jason Steele,Brighton,GK,45,143.0422737237615,10
+351,Kieran Trippier,Newcastle,DEF,65,201.14279630924668,10
+409,Martin Ødegaard,Arsenal,MID,85,156.58561286757117,10
+431,Michael Olise,Crystal Palace,MID,60,117.83197131580863,10
+478,Pascal Groß,Brighton,MID,65,144.3223372644481,10
+482,Pedro Porro,Spurs,DEF,50,91.17742822589973,10
+576,Trent Alexander-Arnold,Liverpool,DEF,80,152.3555744428647,10
+15,Aleksandar Mitrović,Fulham,FWD,75,124.88836381219802,11
+35,Andrew Robertson,Liverpool,DEF,65,91.12851934174303,11
+82,Bruno Borges Fernandes,Man Utd,MID,85,170.30009872100348,11
+130,Daniel Jebbison,Sheffield Utd,FWD,50,76.48388829127214,11
+141,David Raya Martin,Brentford,GK,50,121.4951390277735,11
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,97.54337611460292,11
+186,Ethan Pinnock,Brentford,DEF,45,75.84031178052558,11
+226,Harry Kane,Spurs,FWD,125,145.5797785749143,11
+281,Jason Steele,Brighton,GK,45,134.4516870436025,11
+351,Kieran Trippier,Newcastle,DEF,65,201.14279630924668,11
+409,Martin Ødegaard,Arsenal,MID,85,146.55528517124733,11
+431,Michael Olise,Crystal Palace,MID,60,110.53590526948642,11
+478,Pascal Groß,Brighton,MID,65,136.89525512439155,11
+482,Pedro Porro,Spurs,DEF,50,91.17742822589973,11
+576,Trent Alexander-Arnold,Liverpool,DEF,80,152.3555744428647,11
+15,Aleksandar Mitrović,Fulham,FWD,75,115.91611092194822,12
+35,Andrew Robertson,Liverpool,DEF,65,91.12851934174303,12
+82,Bruno Borges Fernandes,Man Utd,MID,85,170.30009872100348,12
+130,Daniel Jebbison,Sheffield Utd,FWD,50,71.87956576680125,12
+141,David Raya Martin,Brentford,GK,50,112.60459239855669,12
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,97.54337611460292,12
+186,Ethan Pinnock,Brentford,DEF,45,70.41128395920677,12
+226,Harry Kane,Spurs,FWD,125,134.96219817501486,12
+281,Jason Steele,Brighton,GK,45,134.4516870436025,12
+351,Kieran Trippier,Newcastle,DEF,65,187.52703621519206,12
+409,Martin Ødegaard,Arsenal,MID,85,146.55528517124733,12
+431,Michael Olise,Crystal Palace,MID,60,110.53590526948642,12
+478,Pascal Groß,Brighton,MID,65,136.89525512439155,12
+482,Pedro Porro,Spurs,DEF,50,84.3029022291126,12
+576,Trent Alexander-Arnold,Liverpool,DEF,80,152.3555744428647,12
+15,Aleksandar Mitrović,Fulham,FWD,75,115.91611092194822,13
+35,Andrew Robertson,Liverpool,DEF,65,84.12992439143754,13
+82,Bruno Borges Fernandes,Man Utd,MID,85,158.7547989312256,13
+130,Daniel Jebbison,Sheffield Utd,FWD,50,71.87956576680125,13
+141,David Raya Martin,Brentford,GK,50,112.60459239855669,13
+162,Dwight McNeil,Everton,MID,55,90.93468499369152,13
+186,Ethan Pinnock,Brentford,DEF,45,70.41128395920677,13
+226,Harry Kane,Spurs,FWD,125,134.96219817501486,13
+281,Jason Steele,Brighton,GK,45,125.41554393201449,13
+351,Kieran Trippier,Newcastle,DEF,65,187.52703621519206,13
+409,Martin Ødegaard,Arsenal,MID,85,137.54815094251305,13
+431,Michael Olise,Crystal Palace,MID,60,102.01737298765231,13
+478,Pascal Groß,Brighton,MID,65,127.52292583507295,13
+482,Pedro Porro,Spurs,DEF,50,84.3029022291126,13
+576,Trent Alexander-Arnold,Liverpool,DEF,80,141.19678888794016,13
+15,Aleksandar Mitrović,Fulham,FWD,75,106.94385803169841,14
+35,Andrew Robertson,Liverpool,DEF,65,84.12992439143754,14
+82,Bruno Borges Fernandes,Man Utd,MID,85,158.7547989312256,14
+130,Daniel Jebbison,Sheffield Utd,FWD,50,66.55178481020835,14
+141,David Raya Martin,Brentford,GK,50,105.24423211460834,14
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,90.39915728727583,14
+186,Ethan Pinnock,Brentford,DEF,45,65.5266940406826,14
+226,Harry Kane,Spurs,FWD,125,124.34461777511545,14
+281,Jason Steele,Brighton,GK,45,125.41554393201449,14
+351,Kieran Trippier,Newcastle,DEF,65,173.91127612113746,14
+409,Martin Ødegaard,Arsenal,MID,85,137.54815094251305,14
+431,Michael Olise,Crystal Palace,MID,60,102.01737298765231,14
+478,Pascal Groß,Brighton,MID,65,127.52292583507295,14
+482,Pedro Porro,Spurs,DEF,50,77.42837623232549,14
+576,Trent Alexander-Arnold,Liverpool,DEF,80,141.19678888794016,14
+15,Aleksandar Mitrović,Fulham,FWD,75,106.94385803169841,15
+35,Andrew Robertson,Liverpool,DEF,65,78.94798840679955,15
+82,Bruno Borges Fernandes,Man Utd,MID,85,147.2094991414477,15
+130,Daniel Jebbison,Sheffield Utd,FWD,50,66.55178481020835,15
+141,David Raya Martin,Brentford,GK,50,105.24423211460834,15
+162,Dwight McNeil,Everton,MID,55,84.37853035340267,15
+186,Ethan Pinnock,Brentford,DEF,45,65.5266940406826,15
+226,Harry Kane,Spurs,FWD,125,124.34461777511545,15
+281,Jason Steele,Brighton,GK,45,116.37940082042647,15
+351,Kieran Trippier,Newcastle,DEF,65,173.91127612113746,15
+409,Martin Ødegaard,Arsenal,MID,85,127.51782324618921,15
+431,Michael Olise,Crystal Palace,MID,60,93.49884070581821,15
+478,Pascal Groß,Brighton,MID,65,118.15059654575435,15
+482,Pedro Porro,Spurs,DEF,50,77.42837623232549,15
+576,Trent Alexander-Arnold,Liverpool,DEF,80,131.6436623372774,15
+15,Aleksandar Mitrović,Fulham,FWD,75,98.84282261637428,16
+21,Alexis Mac Allister,Liverpool,MID,60,89.86725507332545,16
+35,Andrew Robertson,Liverpool,DEF,65,78.94798840679955,16
+82,Bruno Borges Fernandes,Man Utd,MID,85,136.45750469860644,16
+130,Daniel Jebbison,Sheffield Utd,FWD,50,61.12713427554793,16
+141,David Raya Martin,Brentford,GK,50,105.24423211460834,16
+162,Dwight McNeil,Everton,MID,55,77.82237571311381,16
+186,Ethan Pinnock,Brentford,DEF,45,65.5266940406826,16
+226,Harry Kane,Spurs,FWD,125,114.70092731222695,16
+281,Jason Steele,Brighton,GK,45,107.34325770883845,16
+351,Kieran Trippier,Newcastle,DEF,65,173.91127612113746,16
+409,Martin Ødegaard,Arsenal,MID,85,127.51782324618921,16
+478,Pascal Groß,Brighton,MID,65,108.77826725643575,16
+482,Pedro Porro,Spurs,DEF,50,71.72017406633358,16
+576,Trent Alexander-Arnold,Liverpool,DEF,80,131.6436623372774,16
+15,Aleksandar Mitrović,Fulham,FWD,75,98.84282261637428,17
+35,Andrew Robertson,Liverpool,DEF,65,71.94939345649405,17
+82,Bruno Borges Fernandes,Man Utd,MID,85,136.45750469860644,17
+130,Daniel Jebbison,Sheffield Utd,FWD,50,61.12713427554793,17
+141,David Raya Martin,Brentford,GK,50,96.35368548539151,17
+162,Dwight McNeil,Everton,MID,55,77.82237571311381,17
+186,Ethan Pinnock,Brentford,DEF,45,60.09766621936378,17
+226,Harry Kane,Spurs,FWD,125,114.70092731222695,17
+281,Jason Steele,Brighton,GK,45,107.34325770883845,17
+351,Kieran Trippier,Newcastle,DEF,65,160.29551602708284,17
+409,Martin Ødegaard,Arsenal,MID,85,117.14401815294535,17
+431,Michael Olise,Crystal Palace,MID,60,85.52283859830952,17
+478,Pascal Groß,Brighton,MID,65,108.77826725643575,17
+482,Pedro Porro,Spurs,DEF,50,71.72017406633358,17
+576,Trent Alexander-Arnold,Liverpool,DEF,80,120.48487678235284,17
+15,Aleksandar Mitrović,Fulham,FWD,75,98.84282261637428,18
+35,Andrew Robertson,Liverpool,DEF,65,65.19619551051079,18
+70,Bernd Leno,Fulham,GK,45,82.48395802650937,18
+82,Bruno Borges Fernandes,Man Utd,MID,85,136.45750469860644,18
+130,Daniel Jebbison,Sheffield Utd,FWD,50,61.12713427554793,18
+162,Dwight McNeil,Everton,MID,55,77.82237571311381,18
+226,Harry Kane,Spurs,FWD,125,114.70092731222695,18
+281,Jason Steele,Brighton,GK,45,107.34325770883845,18
+351,Kieran Trippier,Newcastle,DEF,65,146.67975593302822,18
+409,Martin Ødegaard,Arsenal,MID,85,107.11369045662151,18
+431,Michael Olise,Crystal Palace,MID,60,85.52283859830952,18
+478,Pascal Groß,Brighton,MID,65,108.77826725643575,18
+482,Pedro Porro,Spurs,DEF,50,71.72017406633358,18
+484,Pervis Estupiñán,Brighton,DEF,50,64.59954428550571,18
+576,Trent Alexander-Arnold,Liverpool,DEF,80,109.36728883379848,18
+15,Aleksandar Mitrović,Fulham,FWD,75,90.74178720105014,19
+35,Andrew Robertson,Liverpool,DEF,65,65.19619551051079,19
+82,Bruno Borges Fernandes,Man Utd,MID,85,125.70551025576516,19
+130,Daniel Jebbison,Sheffield Utd,FWD,50,55.799353318955035,19
+141,David Raya Martin,Brentford,GK,50,87.43385255308304,19
+162,Dwight McNeil,Everton,MID,55,69.98803230091177,19
+186,Ethan Pinnock,Brentford,DEF,45,54.36103903549447,19
+226,Harry Kane,Spurs,FWD,125,104.08334691232754,19
+281,Jason Steele,Brighton,GK,45,98.53748820098593,19
+351,Kieran Trippier,Newcastle,DEF,65,146.67975593302822,19
+409,Martin Ødegaard,Arsenal,MID,85,107.11369045662151,19
+431,Michael Olise,Crystal Palace,MID,60,78.40014895271392,19
+478,Pascal Groß,Brighton,MID,65,101.12581345247553,19
+482,Pedro Porro,Spurs,DEF,50,64.84564806954646,19
+576,Trent Alexander-Arnold,Liverpool,DEF,80,109.36728883379848,19
+15,Aleksandar Mitrović,Fulham,FWD,75,90.74178720105014,20
+35,Andrew Robertson,Liverpool,DEF,65,65.19619551051079,20
+82,Bruno Borges Fernandes,Man Utd,MID,85,114.16021046598728,20
+130,Daniel Jebbison,Sheffield Utd,FWD,50,50.47157236236214,20
+141,David Raya Martin,Brentford,GK,50,87.43385255308304,20
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,68.96650080529457,20
+186,Ethan Pinnock,Brentford,DEF,45,54.36103903549447,20
+226,Harry Kane,Spurs,FWD,125,104.08334691232754,20
+281,Jason Steele,Brighton,GK,45,89.50134508939792,20
+351,Kieran Trippier,Newcastle,DEF,65,132.96675012877026,20
+409,Martin Ødegaard,Arsenal,MID,85,98.10655622788721,20
+431,Michael Olise,Crystal Palace,MID,60,78.40014895271392,20
+478,Pascal Groß,Brighton,MID,65,91.75348416315691,20
+482,Pedro Porro,Spurs,DEF,50,64.84564806954646,20
+576,Trent Alexander-Arnold,Liverpool,DEF,80,109.36728883379848,20
+15,Aleksandar Mitrović,Fulham,FWD,75,81.76953431080034,21
+21,Alexis Mac Allister,Liverpool,MID,60,66.9395896974725,21
+82,Bruno Borges Fernandes,Man Utd,MID,85,114.16021046598728,21
+130,Daniel Jebbison,Sheffield Utd,FWD,50,50.47157236236214,21
+141,David Raya Martin,Brentford,GK,50,87.43385255308304,21
+186,Ethan Pinnock,Brentford,DEF,45,54.36103903549447,21
+226,Harry Kane,Spurs,FWD,125,93.46576651242813,21
+281,Jason Steele,Brighton,GK,45,89.50134508939792,21
+351,Kieran Trippier,Newcastle,DEF,65,132.96675012877026,21
+409,Martin Ødegaard,Arsenal,MID,85,98.10655622788721,21
+431,Michael Olise,Crystal Palace,MID,60,70.42414684520523,21
+478,Pascal Groß,Brighton,MID,65,91.75348416315691,21
+482,Pedro Porro,Spurs,DEF,50,57.971122072759336,21
+484,Pervis Estupiñán,Brighton,DEF,50,54.948362009862414,21
+576,Trent Alexander-Arnold,Liverpool,DEF,80,98.20850327887393,21
+15,Aleksandar Mitrović,Fulham,FWD,75,81.76953431080034,22
+35,Andrew Robertson,Liverpool,DEF,65,58.1976005602053,22
+82,Bruno Borges Fernandes,Man Utd,MID,85,102.61491067620939,22
+130,Daniel Jebbison,Sheffield Utd,FWD,50,45.87652289103757,22
+141,David Raya Martin,Brentford,GK,50,78.54330592386621,22
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,62.10978238564934,22
+186,Ethan Pinnock,Brentford,DEF,45,48.93201121417566,22
+226,Harry Kane,Spurs,FWD,125,93.46576651242813,22
+281,Jason Steele,Brighton,GK,45,80.4652019778099,22
+351,Kieran Trippier,Newcastle,DEF,65,120.44702220870872,22
+409,Martin Ødegaard,Arsenal,MID,85,88.07622853156337,22
+431,Michael Olise,Crystal Palace,MID,60,70.42414684520523,22
+478,Pascal Groß,Brighton,MID,65,82.38115487383831,22
+482,Pedro Porro,Spurs,DEF,50,57.971122072759336,22
+576,Trent Alexander-Arnold,Liverpool,DEF,80,98.20850327887393,22
+15,Aleksandar Mitrović,Fulham,FWD,75,72.79728142055053,23
+21,Alexis Mac Allister,Liverpool,MID,60,59.27909449760899,23
+82,Bruno Borges Fernandes,Man Utd,MID,85,102.61491067620939,23
+130,Daniel Jebbison,Sheffield Utd,FWD,50,45.87652289103757,23
+141,David Raya Martin,Brentford,GK,50,78.54330592386621,23
+186,Ethan Pinnock,Brentford,DEF,45,48.93201121417566,23
+226,Harry Kane,Spurs,FWD,125,83.50321341357409,23
+281,Jason Steele,Brighton,GK,45,80.4652019778099,23
+351,Kieran Trippier,Newcastle,DEF,65,120.44702220870872,23
+409,Martin Ødegaard,Arsenal,MID,85,88.07622853156337,23
+431,Michael Olise,Crystal Palace,MID,60,63.12808079888301,23
+478,Pascal Groß,Brighton,MID,65,82.38115487383831,23
+482,Pedro Porro,Spurs,DEF,50,52.03560124525984,23
+484,Pervis Estupiñán,Brighton,DEF,50,49.93652386625703,23
+576,Trent Alexander-Arnold,Liverpool,DEF,80,87.09091533031959,23
+15,Aleksandar Mitrović,Fulham,FWD,75,72.79728142055053,24
+35,Andrew Robertson,Liverpool,DEF,65,51.44440261422204,24
+82,Bruno Borges Fernandes,Man Utd,MID,85,91.06961088643152,24
+130,Daniel Jebbison,Sheffield Utd,FWD,50,40.54874193444468,24
+141,David Raya Martin,Brentford,GK,50,69.6527592946494,24
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,54.96556355832225,24
+186,Ethan Pinnock,Brentford,DEF,45,43.502983392856855,24
+226,Harry Kane,Spurs,FWD,125,83.50321341357409,24
+281,Jason Steele,Brighton,GK,45,71.5621718058923,24
+351,Kieran Trippier,Newcastle,DEF,65,106.83126211465411,24
+409,Martin Ødegaard,Arsenal,MID,85,78.04590083523954,24
+431,Michael Olise,Crystal Palace,MID,60,63.12808079888301,24
+478,Pascal Groß,Brighton,MID,65,72.51884483762383,24
+482,Pedro Porro,Spurs,DEF,50,52.03560124525984,24
+576,Trent Alexander-Arnold,Liverpool,DEF,80,87.09091533031959,24
+15,Aleksandar Mitrović,Fulham,FWD,75,63.194869939141476,25
+35,Andrew Robertson,Liverpool,DEF,65,45.98179514506081,25
+82,Bruno Borges Fernandes,Man Utd,MID,85,91.06961088643152,25
+130,Daniel Jebbison,Sheffield Utd,FWD,50,40.54874193444468,25
+141,David Raya Martin,Brentford,GK,50,69.6527592946494,25
+162,Dwight McNeil,Everton,MID,55,50.319568380045204,25
+186,Ethan Pinnock,Brentford,DEF,45,43.502983392856855,25
+226,Harry Kane,Spurs,FWD,125,72.88563301367468,25
+281,Jason Steele,Brighton,GK,45,71.5621718058923,25
+351,Kieran Trippier,Newcastle,DEF,65,106.83126211465411,25
+409,Martin Ødegaard,Arsenal,MID,85,78.04590083523954,25
+431,Michael Olise,Crystal Palace,MID,60,55.15207869137433,25
+478,Pascal Groß,Brighton,MID,65,72.51884483762383,25
+482,Pedro Porro,Spurs,DEF,50,45.16107524847272,25
+576,Trent Alexander-Arnold,Liverpool,DEF,80,76.89822151082284,25
+15,Aleksandar Mitrović,Fulham,FWD,75,63.194869939141476,26
+35,Andrew Robertson,Liverpool,DEF,65,45.98179514506081,26
+82,Bruno Borges Fernandes,Man Utd,MID,85,79.52431109665363,26
+130,Daniel Jebbison,Sheffield Utd,FWD,50,35.124091399784255,26
+141,David Raya Martin,Brentford,GK,50,60.76221266543258,26
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,48.12834216378698,26
+186,Ethan Pinnock,Brentford,DEF,45,38.07395557153804,26
+226,Harry Kane,Spurs,FWD,125,72.88563301367468,26
+281,Jason Steele,Brighton,GK,45,62.52602869430429,26
+351,Kieran Trippier,Newcastle,DEF,65,93.2155020205995,26
+409,Martin Ødegaard,Arsenal,MID,85,68.0155731389157,26
+431,Michael Olise,Crystal Palace,MID,60,55.15207869137433,26
+478,Pascal Groß,Brighton,MID,65,63.14651554830523,26
+482,Pedro Porro,Spurs,DEF,50,45.16107524847272,26
+576,Trent Alexander-Arnold,Liverpool,DEF,80,76.89822151082284,26
+15,Aleksandar Mitrović,Fulham,FWD,75,63.194869939141476,27
+63,Ben Mee,Brentford,DEF,50,36.87868387360611,27
+82,Bruno Borges Fernandes,Man Utd,MID,85,68.04153318140986,27
+130,Daniel Jebbison,Sheffield Utd,FWD,50,35.124091399784255,27
+141,David Raya Martin,Brentford,GK,50,60.76221266543258,27
+186,Ethan Pinnock,Brentford,DEF,45,38.07395557153804,27
+226,Harry Kane,Spurs,FWD,125,72.88563301367468,27
+281,Jason Steele,Brighton,GK,45,53.622998522386695,27
+351,Kieran Trippier,Newcastle,DEF,65,93.2155020205995,27
+409,Martin Ødegaard,Arsenal,MID,85,57.64176804567184,27
+478,Pascal Groß,Brighton,MID,65,53.28420551209075,27
+482,Pedro Porro,Spurs,DEF,50,45.16107524847272,27
+485,Phil Foden,Man City,MID,75,51.53234460286939,27
+576,Trent Alexander-Arnold,Liverpool,DEF,80,65.78063356226849,27
+597,Willian Borges da Silva,Fulham,MID,55,47.379058449340256,27
+15,Aleksandar Mitrović,Fulham,FWD,75,55.093834523817335,28
+35,Andrew Robertson,Liverpool,DEF,65,39.22859719907754,28
+82,Bruno Borges Fernandes,Man Utd,MID,85,68.04153318140986,28
+130,Daniel Jebbison,Sheffield Utd,FWD,50,29.79631044319136,28
+141,David Raya Martin,Brentford,GK,50,51.87166603621576,28
+186,Ethan Pinnock,Brentford,DEF,45,32.64492775021923,28
+226,Harry Kane,Spurs,FWD,125,62.26805261377527,28
+281,Jason Steele,Brighton,GK,45,53.622998522386695,28
+351,Kieran Trippier,Newcastle,DEF,65,80.69577410053796,28
+409,Martin Ødegaard,Arsenal,MID,85,57.64176804567184,28
+431,Michael Olise,Crystal Palace,MID,60,47.176076583865644,28
+478,Pascal Groß,Brighton,MID,65,53.28420551209075,28
+482,Pedro Porro,Spurs,DEF,50,38.2865492516856,28
+576,Trent Alexander-Arnold,Liverpool,DEF,80,65.78063356226849,28
+597,Willian Borges da Silva,Fulham,MID,55,42.03294740228502,28
+15,Aleksandar Mitrović,Fulham,FWD,75,55.093834523817335,29
+63,Ben Mee,Brentford,DEF,50,31.727426525524855,29
+70,Bernd Leno,Fulham,GK,45,45.91234698366535,29
+82,Bruno Borges Fernandes,Man Utd,MID,85,57.72649894888941,29
+91,Callum Wilson,Newcastle,FWD,80,40.67964410465232,29
+141,David Raya Martin,Brentford,GK,50,51.87166603621576,29
+162,Dwight McNeil,Everton,MID,55,38.423004698783174,29
+186,Ethan Pinnock,Brentford,DEF,45,32.64492775021923,29
+226,Harry Kane,Spurs,FWD,125,62.26805261377527,29
+351,Kieran Trippier,Newcastle,DEF,65,80.69577410053796,29
+478,Pascal Groß,Brighton,MID,65,43.91187622277214,29
+482,Pedro Porro,Spurs,DEF,50,38.2865492516856,29
+485,Phil Foden,Man City,MID,75,44.087193852527655,29
+576,Trent Alexander-Arnold,Liverpool,DEF,80,54.66304561371415,29
+597,Willian Borges da Silva,Fulham,MID,55,42.03294740228502,29
+15,Aleksandar Mitrović,Fulham,FWD,75,46.12158163356754,30
+35,Andrew Robertson,Liverpool,DEF,65,32.47539925309428,30
+82,Bruno Borges Fernandes,Man Utd,MID,85,57.72649894888941,30
+130,Daniel Jebbison,Sheffield Utd,FWD,50,24.468529486598467,30
+141,David Raya Martin,Brentford,GK,50,44.511305752267404,30
+186,Ethan Pinnock,Brentford,DEF,45,27.760337831695054,30
+226,Harry Kane,Spurs,FWD,125,51.65047221387586,30
+281,Jason Steele,Brighton,GK,45,44.58685541079868,30
+351,Kieran Trippier,Newcastle,DEF,65,67.08001400648334,30
+409,Martin Ødegaard,Arsenal,MID,85,47.267962952427986,30
+431,Michael Olise,Crystal Palace,MID,60,39.20007447635696,30
+478,Pascal Groß,Brighton,MID,65,43.91187622277214,30
+482,Pedro Porro,Spurs,DEF,50,31.412023254898482,30
+576,Trent Alexander-Arnold,Liverpool,DEF,80,54.66304561371415,30
+597,Willian Borges da Silva,Fulham,MID,55,35.17756969459955,30
+15,Aleksandar Mitrović,Fulham,FWD,75,46.12158163356754,31
+70,Bernd Leno,Fulham,GK,45,38.35756376357672,31
+82,Bruno Borges Fernandes,Man Utd,MID,85,57.72649894888941,31
+91,Callum Wilson,Newcastle,FWD,80,26.91113491585744,31
+103,Charlie Taylor,Burnley,DEF,40,21.186617468657555,31
+162,Dwight McNeil,Everton,MID,55,32.59755403011537,31
+226,Harry Kane,Spurs,FWD,125,41.03289181397644,31
+281,Jason Steele,Brighton,GK,45,44.58685541079868,31
+343,Kenny Tete,Fulham,DEF,45,26.195930453183266,31
+351,Kieran Trippier,Newcastle,DEF,65,53.46425391242873,31
+409,Martin Ødegaard,Arsenal,MID,85,47.267962952427986,31
+431,Michael Olise,Crystal Palace,MID,60,39.20007447635696,31
+478,Pascal Groß,Brighton,MID,65,43.91187622277214,31
+484,Pervis Estupiñán,Brighton,DEF,50,26.17252556053982,31
+576,Trent Alexander-Arnold,Liverpool,DEF,80,43.545457665159795,31
+15,Aleksandar Mitrović,Fulham,FWD,75,36.51917015215847,32
+35,Andrew Robertson,Liverpool,DEF,65,25.72220130711102,32
+82,Bruno Borges Fernandes,Man Utd,MID,85,46.18119915911153,32
+130,Daniel Jebbison,Sheffield Utd,FWD,50,19.864206962127575,32
+141,David Raya Martin,Brentford,GK,50,35.59147281995893,32
+186,Ethan Pinnock,Brentford,DEF,45,22.023710647825745,32
+226,Harry Kane,Spurs,FWD,125,41.03289181397644,32
+281,Jason Steele,Brighton,GK,45,35.78108590294615,32
+351,Kieran Trippier,Newcastle,DEF,65,53.46425391242873,32
+409,Martin Ødegaard,Arsenal,MID,85,39.098117317705814,32
+431,Michael Olise,Crystal Palace,MID,60,31.224072368848272,32
+478,Pascal Groß,Brighton,MID,65,36.259422418811916,32
+482,Pedro Porro,Spurs,DEF,50,24.53749725811136,32
+576,Trent Alexander-Arnold,Liverpool,DEF,80,43.545457665159795,32
+597,Willian Borges da Silva,Fulham,MID,55,27.87185140882798,32
+15,Aleksandar Mitrović,Fulham,FWD,75,27.546917261908668,33
+19,Alexander Isak,Newcastle,FWD,75,20.482331853254127,33
+21,Alexis Mac Allister,Liverpool,MID,60,29.639547248804494,33
+35,Andrew Robertson,Liverpool,DEF,65,25.72220130711102,33
+63,Ben Mee,Brentford,DEF,50,21.335585150846786,33
+82,Bruno Borges Fernandes,Man Utd,MID,85,34.63589936933364,33
+91,Callum Wilson,Newcastle,FWD,80,26.91113491585744,33
+141,David Raya Martin,Brentford,GK,50,35.59147281995893,33
+186,Ethan Pinnock,Brentford,DEF,45,22.023710647825745,33
+281,Jason Steele,Brighton,GK,45,26.744942791358138,33
+351,Kieran Trippier,Newcastle,DEF,65,53.46425391242873,33
+409,Martin Ødegaard,Arsenal,MID,85,39.098117317705814,33
+478,Pascal Groß,Brighton,MID,65,26.887093129493316,33
+485,Phil Foden,Man City,MID,75,29.78060300136692,33
+576,Trent Alexander-Arnold,Liverpool,DEF,80,43.545457665159795,33
+15,Aleksandar Mitrović,Fulham,FWD,75,27.546917261908668,34
+35,Andrew Robertson,Liverpool,DEF,65,20.259593837949783,34
+82,Bruno Borges Fernandes,Man Utd,MID,85,34.63589936933364,34
+130,Daniel Jebbison,Sheffield Utd,FWD,50,15.25988443765668,34
+141,David Raya Martin,Brentford,GK,50,26.700926190742113,34
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,21.145156074299404,34
+186,Ethan Pinnock,Brentford,DEF,45,16.594682826506933,34
+226,Harry Kane,Spurs,FWD,125,30.415311414077028,34
+281,Jason Steele,Brighton,GK,45,26.744942791358138,34
+351,Kieran Trippier,Newcastle,DEF,65,39.84849381837412,34
+409,Martin Ødegaard,Arsenal,MID,85,29.067789621381976,34
+431,Michael Olise,Crystal Palace,MID,60,23.24807026133959,34
+478,Pascal Groß,Brighton,MID,65,26.887093129493316,34
+482,Pedro Porro,Spurs,DEF,50,17.66297126132424,34
+576,Trent Alexander-Arnold,Liverpool,DEF,80,33.35276384566305,34
+3,Aaron Ramsdale,Arsenal,GK,50,20.367017851075314,35
+15,Aleksandar Mitrović,Fulham,FWD,75,18.574664371658866,35
+19,Alexander Isak,Newcastle,FWD,75,15.667037311468869,35
+21,Alexis Mac Allister,Liverpool,MID,60,22.981485599590563,35
+35,Andrew Robertson,Liverpool,DEF,65,20.259593837949783,35
+63,Ben Mee,Brentford,DEF,50,16.184327802765534,35
+82,Bruno Borges Fernandes,Man Utd,MID,85,23.090599579555764,35
+91,Callum Wilson,Newcastle,FWD,80,20.02688032146,35
+141,David Raya Martin,Brentford,GK,50,26.700926190742113,35
+186,Ethan Pinnock,Brentford,DEF,45,16.594682826506933,35
+351,Kieran Trippier,Newcastle,DEF,65,39.84849381837412,35
+409,Martin Ødegaard,Arsenal,MID,85,29.067789621381976,35
+441,Morgan Gibbs-White,Nott'm Forest,MID,60,18.673864833635598,35
+485,Phil Foden,Man City,MID,75,22.33545225102519,35
+576,Trent Alexander-Arnold,Liverpool,DEF,80,33.35276384566305,35
+15,Aleksandar Mitrović,Fulham,FWD,75,18.574664371658866,36
+35,Andrew Robertson,Liverpool,DEF,65,13.506395891966523,36
+82,Bruno Borges Fernandes,Man Utd,MID,85,23.090599579555764,36
+130,Daniel Jebbison,Sheffield Utd,FWD,50,9.932103481063788,36
+141,David Raya Martin,Brentford,GK,50,17.78109325843364,36
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,14.288437654654171,36
+186,Ethan Pinnock,Brentford,DEF,45,10.858055642637622,36
+226,Harry Kane,Spurs,FWD,125,20.452758315222994,36
+281,Jason Steele,Brighton,GK,45,17.84191261944054,36
+351,Kieran Trippier,Newcastle,DEF,65,27.328765898312575,36
+409,Martin Ødegaard,Arsenal,MID,85,19.03746192505814,36
+431,Michael Olise,Crystal Palace,MID,60,15.95200421501737,36
+478,Pascal Groß,Brighton,MID,65,17.02478309327883,36
+482,Pedro Porro,Spurs,DEF,50,11.727450433824746,36
+576,Trent Alexander-Arnold,Liverpool,DEF,80,22.235175897108697,36
+15,Aleksandar Mitrović,Fulham,FWD,75,18.574664371658866,37
+70,Bernd Leno,Fulham,GK,45,15.401390271744049,37
+82,Bruno Borges Fernandes,Man Utd,MID,85,23.090599579555764,37
+91,Callum Wilson,Newcastle,FWD,80,13.892755437327382,37
+161,Douglas Luiz Soares de Paulo,Aston Villa,MID,55,14.288437654654171,37
+162,Dwight McNeil,Everton,MID,55,13.659794080869858,37
+189,Fabian Schär,Newcastle,DEF,50,10.40376703888327,37
+226,Harry Kane,Spurs,FWD,125,20.452758315222994,37
+317,Jordan Pickford,Everton,GK,45,12.428832012898306,37
+351,Kieran Trippier,Newcastle,DEF,65,27.328765898312575,37
+482,Pedro Porro,Spurs,DEF,50,11.727450433824746,37
+547,Son Heung-min,Spurs,MID,90,14.578793430730073,37
+576,Trent Alexander-Arnold,Liverpool,DEF,80,11.117587948554348,37
+578,Tyrell Malacia,Man Utd,DEF,45,8.591782969019823,37
+597,Willian Borges da Silva,Fulham,MID,55,14.161095993457039,37
